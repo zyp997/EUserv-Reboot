@@ -1,6 +1,6 @@
 name: 'EUserv Auto Extend'
 
-#on:
+on:
   workflow_dispatch:
   push:
     branches:
