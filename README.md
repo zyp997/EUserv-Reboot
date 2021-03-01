@@ -1,5 +1,3 @@
-## 启用前，请先进入.github/workflows的action.yml文件，点击小铅笔删除第3行“ON”前的“#”，再右侧点击start commit保存。默认每天检查！可自行修改时间。
-
 # EUserv_extend
 使用Github Action自动续期EUserv免费IPv6 VPS脚本
 
